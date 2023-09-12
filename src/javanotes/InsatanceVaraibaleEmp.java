@@ -20,7 +20,7 @@ public class InsatanceVaraibaleEmp {
 	public void PrintEmp() {
 		System.out.println("name" + name);
 		System.out.println("salary" + salary);
-
+System.out.println("hello");
 	}
 	public void main(String args[]) {
 		InsatanceVaraibaleEmp one=new InsatanceVaraibaleEmp("kittu");
